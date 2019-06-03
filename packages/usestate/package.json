@@ -1,6 +1,6 @@
 {
   "name": "usestate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Arslan Hayat <muhammadarslanhayat@gmail.com>",
   "homepage": "",
@@ -14,10 +14,10 @@
     "lib"
   ],
   "publishConfig": {
-    "access":"public"
+    "access": "public"
   },
   "scripts": {
-    "tsc":"tsc",
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   }
 }
