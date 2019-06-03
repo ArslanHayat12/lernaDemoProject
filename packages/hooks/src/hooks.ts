@@ -1,5 +1,5 @@
 export class hooks{
     get(id) {
-        return {};
+        return id;
     }
 }
